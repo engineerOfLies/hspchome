@@ -1,5 +1,1 @@
-{
-  "chrome://browser/content/browser.xul": {
-    "PersonalToolbar": { "collapsed": "false" }
-  }
-}
+{"chrome://browser/content/browser.xul":{"PersonalToolbar":{"collapsed":"false"},"navigator-toolbox":{"iconsize":"small"},"main-window":{"sizemode":"maximized"},"sidebar-title":{"value":""}},"chrome://browser/content/places/bookmarkProperties.xul":{"bookmarkproperties":{"screenX":"332","screenY":"333","width":"360"}}}
